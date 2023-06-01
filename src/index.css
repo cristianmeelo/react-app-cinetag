@@ -1,13 +1,14 @@
 :root {
-	--fonte: "Montserrat", sans-serif;
-	--white: "#FFFFFF";
-	--black: "#000000";
-	--gray: "#a2a2";
+	--font: "Montserrat", sans-serif;
+	--white: #ffffff;
+	--black: #000000;
+	--gray: #e2e2e2;
 }
 
 body {
+	margin: 0;
 	font-family: var(--font);
-	background-color: var(--gray);
+	background-color: var(--white);
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }

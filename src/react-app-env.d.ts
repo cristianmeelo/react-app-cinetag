@@ -6,3 +6,9 @@ interface IMovies {
 	cover: string
 	link: string
 }
+
+/* COMPONENTS INTERFACE */
+interface IHeaderLink {
+	url: string
+	children: ReactNode
+}
