@@ -1,8 +1,6 @@
 import { Link } from "react-router-dom"
 import { HeaderLink } from "components/headerLink"
-
 import styles from "./index.module.css"
-
 import logo from "../../images/logo.png"
 
 export const Header = () => {
