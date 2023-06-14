@@ -22,7 +22,7 @@ interface TitleProps {
 }
 
 interface CardProps {
-  id: string;
+  id: number;
   title: string;
   cover: string;
 }
