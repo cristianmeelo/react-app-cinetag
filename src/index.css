@@ -1,18 +1,19 @@
 :root {
-	--font: "Montserrat", sans-serif;
-	--white: #ffffff;
-	--black: #000000;
-	--gray: #e2e2e2;
+  --font: "Montserrat", sans-serif;
+  --white: #ffffff;
+  --black: #000000;
+  --gray: #e2e2e2;
 }
 
 body {
-	margin: 0;
-	font-family: var(--font);
-	background-color: var(--white);
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  font-family: var(--font);
+  background-color: var(--white);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
 }

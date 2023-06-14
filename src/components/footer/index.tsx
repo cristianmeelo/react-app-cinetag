@@ -1,9 +1,9 @@
-import styles from "./index.module.css"
+import styles from "./index.module.css";
 
 export const Footer: React.FC = () => {
-	return (
-		<footer className={styles.footer}>
-			<h2>Desenvolvido por Alura.</h2>
-		</footer>
-	)
-}
+  return (
+    <footer className={styles.footer}>
+      <h2>Desenvolvido por Alura.</h2>
+    </footer>
+  );
+};
