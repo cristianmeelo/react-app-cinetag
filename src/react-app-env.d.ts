@@ -16,3 +16,7 @@ interface HeaderLinkProps {
 interface BannerProps {
   image: string;
 }
+
+interface TitleProps {
+  children: ReactNode;
+}
