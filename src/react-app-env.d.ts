@@ -20,6 +20,9 @@ interface BannerProps {
 interface TitleProps {
   children: ReactNode;
 }
+interface ContainerProps {
+  children: ReactNode;
+}
 
 interface CardProps {
   id: number;
