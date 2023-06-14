@@ -8,7 +8,11 @@ interface IMovies {
 }
 
 /* COMPONENTS INTERFACE */
-interface IHeaderLink {
+interface HeaderLinkProps {
   url: string;
   children: ReactNode;
+}
+
+interface BannerProps {
+  image: string;
 }
