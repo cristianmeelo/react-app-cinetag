@@ -20,3 +20,9 @@ interface BannerProps {
 interface TitleProps {
   children: ReactNode;
 }
+
+interface CardProps {
+  id: string;
+  title: string;
+  cover: string;
+}
