@@ -4,6 +4,7 @@ import { Home } from "pages/home";
 import { Favorites } from "pages/favorites";
 import { Player } from "pages/player";
 import { Footer, Header, Container } from "components";
+import { NotFound } from "pages/notFound";
 
 export const AppRoutes = () => {
   return (
@@ -15,6 +16,7 @@ export const AppRoutes = () => {
             <Route path="/" element={<Home />} />
             <Route path="/favorites" element={<Favorites />} />
             <Route path="/:id" element={<Player />} />
+            <Route path="*" element={<NotFound />} />
           </Routes>
         </AppProvider>
       </Container>
