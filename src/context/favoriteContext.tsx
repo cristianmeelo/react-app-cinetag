@@ -1,7 +1,7 @@
 import { createContext, useContext, useState } from "react";
 
 interface FavoriteContextType {
-  favorite: string[];
+  favorite: any[];
   setFavorite: React.Dispatch<React.SetStateAction<string[]>>;
 }
 
