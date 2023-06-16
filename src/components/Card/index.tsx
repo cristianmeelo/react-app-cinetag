@@ -1,7 +1,7 @@
-import { useCard } from "components/hooks/useCard";
-import styles from "./index.module.css";
-
+import { Link } from "react-router-dom";
+import { useCard } from "components/hooks";
 import { useFavoriteContext } from "context/favoriteContext";
+import styles from "./index.module.css";
 
 export const Card = ({ id, title, cover }: CardProps) => {
   const { addFavorite } = useFavoriteContext();
@@ -9,8 +9,10 @@ export const Card = ({ id, title, cover }: CardProps) => {
 
   return (
     <div className={styles.container}>
-      <img src={cover} alt={title} className={cover} />
-      <h2>{title}</h2>
+      <Link className={styles.link} to={`/${id}`}>
+        <img src={cover} alt={title} className={cover} />
+        <h2>{title}</h2>
+      </Link>
       <img src={checkIsFavorited(id)} alt="favorite movie" className={styles.favorite} onClick={() => addFavorite({ id, title, cover })} />
     </div>
   );
