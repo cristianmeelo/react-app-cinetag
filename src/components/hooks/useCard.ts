@@ -7,7 +7,7 @@ export const useCard = () => {
 
   const checkIsFavorited = (id: string | number) => {
     const isFavorite = favorite.some((fav) => fav.id === id);
-    const icon = !isFavorite ? favoriteIcon : disfavorIcon;
+    const icon = isFavorite ? favoriteIcon : disfavorIcon;
     return icon;
   };
 
