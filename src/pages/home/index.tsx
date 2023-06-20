@@ -1,7 +1,7 @@
 import styles from "./index.module.css";
 import { Title, Banner } from "components";
 import { Card } from "components/Card";
-import { movies } from "helpers/json";
+import { movies } from "helpers/json/db";
 
 export const Home = () => {
   return (

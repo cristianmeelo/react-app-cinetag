@@ -1,4 +1,4 @@
-import { movies } from "helpers/json";
+import { movies } from "helpers/json/db";
 import { useParams } from "react-router-dom";
 
 export const usePlayer = () => {
