@@ -1,5 +1,5 @@
 import { Banner, Title } from "components";
-import { usePlayer } from "components/hooks";
+import { usePlayer } from "hooks";
 import styles from "./index.module.css";
 
 export const Player = () => {

@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { useCard } from "components/hooks";
+import { useCard } from "hooks";
 import { useFavoriteContext } from "context/favoriteContext";
 import styles from "./index.module.css";
 
