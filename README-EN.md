@@ -11,47 +11,56 @@
   </tr>
 </table>
 
-![](https://github.com/cristianmeelo/tailwind-alura-newsletter/blob/main/thumbnail-en.png?raw=true#vitrinedev)
+![](https://github.com/cristianmeelo/cinetag/blob/main/thumbnail-en.png?raw=true#vitrinedev)
 
-# Alura Newsletter
+# Cinetag
 
-A newsletter built on the power of tailwind, uniquely animated and built with the concept of mobile first.
+A place for you to save your movies and videos. With the possibility to browse among your favorites, and directly watch the content of your choice.
 
 <img src="screencapture.png" alt="Image App" >
 <div align="center">
-<a href="https://tailwind-alura-newsletter.vercel.app/">
-  <img src="https://img.shields.io/badge/-check%20here-lightgrey"
+  <a href="https://cinetag-six-pi.vercel.app/">
+    <img src="https://img.shields.io/badge/-check%20here-lightgrey"
   alt="Image App" >
 </a>
 </div>
 
 ## 🔨 Project features
 
-Alura Newsletter is a newsletter project application, with the main purpose of knowing the tailwind potential. A newsletter serves to keep people informed and engaged with relevant content. It can be used to share updates about products, news, tips, events, promotions and other content related to the interest of the target audience. To apply the design of the project, the tailwind CSS was used, said to be a CSS structure of first use for the quick creation of modern websites without leaving HTML.
+Cinetag is a video player project application, with the main purpose of exercising various React knowledge with a very prominent react router application, and some hooks, as well as styling with CSS Modules and API consumption.
 
 ## ⚙️ Techniques and technologies used
 
 Check out this list of everything we will use in this app:
 
-- `HTML`
-- `CSS`
-- `Tailwind`
+- `React`
+- `CSS Modules`
+- `React Router`
+- `React Hooks`
 - `GitHub`
 - `Vercel`
 
 ## 🛠️ Open and run the project
 
-To open and run the project, add the Live Server extension, click on the `Go Live` button usually located in the lower right corner if you are using vscode.
+To open and run the project, run `npm i` to install the dependencies and `npm start` to start the project.
 
-Then go to http://127.0.0.1:5500/ in your browser.
+Then go to <a href="http://localhost:3000/">http://localhost:3000/</a> in your browser.
 
 ## 📚 More tutorial information
 
-Alura Newsletter is a prototype of a newsletter application, developed from the course of [Tailwind CSS: styling your page with utility classes](https://cursos.alura.com.br/course/tailwind-css-estilizando- utility-classes-page). By taking this course I was able to:
+Cinetag is a prototype of an application where you can save your favorite videos and watch them, developed from the [React: practicing React with Js](https://cursos.alura.com.br/course/react-practicing- react-js). By taking this course I was able to:
 
-| :placard: Vitrine.Dev |                                                                          |
-| --------------------- | ------------------------------------------------------------------------ |
-| :sparkles: Name       | **Fake Shop**                                                            |
-| :label: Technologies  | HTML, CSS,Redux, Tailwind, GitHub, Vercel( used Technologies) |
-| :rocket: URL          | https://tailwind-alura-newsletter.vercel.app/        |
-| :fire: Challenge      | https://cursos.alura.com.br/course/tailwind-css-estilizando-pagina-classes-utilitarias      |
+- Start a React project
+- Build components and pages
+- Implement normal, dynamic and nested routes
+- Apply the useState, useParams, useEffect and useContext hooks
+- Understand how React contexts work
+- Consume an API
+- Deploy the project at Vercel
+
+| :placard: Vitrine.Dev |                                                                                  |
+| --------------------- | -------------------------------------------------------------------------------- |
+| :sparkles: Name       | **Cinetag**                                                                      |
+| :label: Technologies  | React, CSS Modules,React Router, React Hooks, GitHub, Vercel (used Technologies) |
+| :rocket: URL          | https://cinetag-six-pi.vercel.app/                                               |
+| :fire: Challenge      | https://cursos.alura.com.br/course/react-praticando-react-js                     |
