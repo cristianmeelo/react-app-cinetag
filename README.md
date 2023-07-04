@@ -1,46 +1,64 @@
-# Getting Started with Create React App
+<table align="right">
+  <tr>
+    <td>
+      <a href="README-EN.md">🇺🇸 English (apenas no GitHub)</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="README.md">🇧🇷 Português</a>
+    </td>
+  </tr>
+</table>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![](https://github.com/cristianmeelo/tailwind-alura-newsletter/blob/main/thumbnail.png?raw=true#vitrinedev)
 
-## Available Scripts
+# Cinetag
 
-In the project directory, you can run:
+Uma newsletter construída com o poder do tailwind, singelamente animada e construída com o conceito de mobile first.
 
-### `npm start`
+<img src="screencapture.png" alt="Image App" >
+<div align="center">
+<a href="https://tailwind-alura-newsletter.vercel.app/">
+  <img src="https://img.shields.io/badge/-confira%20aqui-lightgrey" alt="Image App" >
+</a>
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🔨 Recursos do projeto
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Alura Newsletter é uma aplicação de projeto de newslettter, com a finalidade principal de conhecer o potencial de tailwind. Uma newsletter serve para manter as pessoas informadas e engajadas com conteúdos relevantes. Ela pode ser utilizada para compartilhar atualizações sobre produtos, notícias, dicas, eventos, promoções e outros conteúdos relacionados ao interesse do público-alvo. Para aplicação do design do projetot, foi utilizado o tailwind CSS, dito uma estrutura CSS de primeiro uso para a criação rápida de sites modernos sem sair do HTML.
 
-### `npm test`
+## ⚙️ Técnicas e tecnologias usadas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Confira essa lista de tudo que vamos usar nesse app:
 
-### `npm run build`
+- `HTML`
+- `CSS`
+- `Tailwind`
+- `GitHub`
+- `Vercel`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Abra e execute o projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Para abrir e executar o projeto, adicione a extensão Live Server, clique no botão `Go Live` geralmente localizado no canto inferior direito se você estiver usando o vscode.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Em seguida, vá para http://127.0.0.1:5500/ em seu navegador.
 
-### `npm run eject`
+## 📚 Mais informações do tutorial
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Alura Newsletter é um protótipo de uma aplicação de newsletter, desenvolvido a partir do curso de [Tailwind CSS: estilizando a sua página com classes utilitárias](https://cursos.alura.com.br/course/tailwind-css-estilizando-pagina-classes-utilitarias). Fazendo esse curso de fui capaz de:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Inicie um projeto React
+- Construa componentes e páginas
+- Implemente rotas normais, dinâmicas e aninhadas
+- Aplique os hooks useState, useParams, useEffect e useContext
+- Entenda como funcionam os contextos do React
+- Consuma uma API
+- Realize o deploy do projeto na Vercel
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+| :placard: Vitrine.Dev |                                                                                        |
+| --------------------- | -------------------------------------------------------------------------------------- |
+| :sparkles: Nome       | **Fake Shop**                                                                          |
+| :label: Tecnologias   | HTML, CSS,Redux, Tailwind, GitHub, Vercel (tecnologias utilizadas)                     |
+| :rocket: URL          | https://tailwind-alura-newsletter.vercel.app/                                          |
+| :fire: Desafio        | https://cursos.alura.com.br/course/tailwind-css-estilizando-pagina-classes-utilitarias |
