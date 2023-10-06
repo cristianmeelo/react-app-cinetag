@@ -15,17 +15,19 @@
 
 ![](https://github.com/cristianmeelo/cinetag/blob/main/thumbnail-mockup.png?raw=true#vitrinedev)
 
+<div align="center">
+<a href="https://cinetag-six-pi.vercel.app/">
+  <img src="https://img.shields.io/badge/-CONFIRA%20AQUI-lightblue" alt="Image App" >
+</a>
+</div>
+
 <br/>
 
 # Cinetag
 
 Um lugar para você salvar seus filmes e vídeos. Com a possibilidade de navegar entre seus favoritos, e assistir diretamente o conteúdo de sua escolha.
 
-<div align="center">
-<a href="https://cinetag-six-pi.vercel.app/">
-  <img src="https://img.shields.io/badge/-CONFIRA%20AQUI-lightblue" alt="Image App" >
-</a>
-</div>
+
 
 ## 🔨 Recursos do projeto
 
