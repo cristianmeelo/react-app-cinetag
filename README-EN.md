@@ -11,19 +11,22 @@
   </tr>
 </table>
 
-![](https://github.com/cristianmeelo/cinetag/blob/main/thumbnail-en.png?raw=true#vitrinedev)
+![](https://github.com/cristianmeelo/cinetag/blob/main/thumbnail-en.png?raw=true)
+
+![](https://github.com/cristianmeelo/cinetag/blob/main/thumbnail-mockup.png?raw=true#vitrinedev)
+
+<div align="center">
+  <a href="https://cinetag-six-pi.vercel.app/">
+    <img src="https://img.shields.io/badge/-CHECK%20HERE-lightblue"
+  alt="Image App" >
+</a>
+</div>
+
+<br/>
 
 # Cinetag
 
 A place for you to save your movies and videos. With the possibility to browse among your favorites, and directly watch the content of your choice.
-
-<img src="screencapture.png" alt="Image App" >
-<div align="center">
-  <a href="https://cinetag-six-pi.vercel.app/">
-    <img src="https://img.shields.io/badge/-check%20here-lightgrey"
-  alt="Image App" >
-</a>
-</div>
 
 ## 🔨 Project features
 
